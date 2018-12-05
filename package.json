@@ -1,0 +1,13 @@
+{
+  "id": "gridle",
+  "name": "Gridle",
+  "version": "1.0.1",
+  "description": "Gridle",
+  "main": "index.js",
+  "author": "Fenil Gandhi <fanilgandhi@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/fenilgandhi/franz_gridle",
+  "config": {
+    "serviceURL": "https://app.gridle.io/"
+  }
+}
